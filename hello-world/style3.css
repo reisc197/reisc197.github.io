@@ -1,0 +1,37 @@
+Body {
+	background-color: black;
+	color: red;
+	position: absolute;
+}
+
+.header {
+	position: absolute;
+}
+
+h1 {
+	font-size: 70px;
+	font-family: "helvetica";
+	top: 200px;
+	left: 600px;
+	width: 600px; 
+	
+
+}
+
+#me{
+	width: 500px;
+	left: 500px;
+	position: absolute;
+}
+a:link {
+  position: absolute;
+  font-size: 20px;
+  font-family: helvetica;
+  text-decoration: none;
+  margin-left: 700px;
+
+}
+
+a:visited {
+  color: white;
+}
