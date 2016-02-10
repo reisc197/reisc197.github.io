@@ -1,0 +1,42 @@
+Body {
+  background-color: black;
+  color: red;
+  position: absolute;
+}
+
+.header {
+  position: absolute;
+}
+
+
+
+a:link {
+  position: absolute;
+  font-size: 20px;
+  font-family: helvetica;
+  text-decoration: none;
+  margin-left: 50px;
+
+}
+
+a:visited {
+  color: white;
+}
+
+#drive{
+  width: 500px;
+  left: 500px;
+  position: absolute;
+}
+
+#help{
+  width: 500px;
+  left: 300px;
+  margin-left: 50px;
+}
+
+
+
+
+
+

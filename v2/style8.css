@@ -1,0 +1,29 @@
+Body {
+  background-color: black;
+  color: orange;
+  position: absolute;
+}
+
+header {
+  position:absolute;
+  margin-left:800px;
+}
+
+
+#shakira{
+  width: 500px;
+  left: 500px;
+  position: absolute;
+}
+a:link {
+  position: absolute;
+  font-size: 20px;
+  font-family: helvetica;
+  text-decoration: none;
+  margin-left: 800px;
+
+}
+
+a:visited {
+  color: white;
+}

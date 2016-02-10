@@ -1,0 +1,38 @@
+Body {
+	background-color: black;
+	color: purple;
+	position: absolute;
+}
+
+.header {
+	position: absolute;
+}
+
+
+	
+#nail{
+	top: 800px;
+	left: 700px;
+	position: absolute;
+}
+
+
+
+
+#nails{
+	width: 500px;
+	left: 500px;
+	position: absolute;
+}
+a:link {
+  position: absolute;
+  font-size: 20px;
+  font-family: helvetica;
+  text-decoration: none;
+  margin-left: 700px;
+
+}
+
+a:visited {
+  color: white;
+}
