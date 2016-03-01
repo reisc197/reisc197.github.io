@@ -1,0 +1,118 @@
+
+
+body {
+	background-color: white;
+	
+}
+
+h1 {
+  top:50px;
+  margin-left:560px;
+  font-size:50px;
+   }
+
+.month {
+  font-family:"helvetica";
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  display: block;
+  margin-top: 0px;
+}
+
+.painting {
+	width: 100px;
+	position: fixed;
+	top: 20px;
+	left: 300px;
+}
+
+.paint1 {
+	width: 100px;
+	position: fixed;
+	top: 200px;
+	left: 200px;
+}
+
+.paint2 {
+	width: 100px;
+	position: fixed;
+	top: 500px;
+	left: 500px; }
+
+
+.paint3 {
+	width: 100px;
+	position: fixed;
+	top: 250px;
+	left: 700px; }
+
+
+.paint4 {
+	width: 100px;
+	position: fixed;
+	top: 100px;
+	left: 900px; }
+
+.paint5 {
+	width: 100px;
+	position: fixed;
+	top: 500px;
+	left: 350px; }
+
+.paint6 {
+	width: 100px;
+	position: fixed;
+	top: 300px;
+	left: 1000px; }
+
+.paint7 {
+	width: 100px;
+	position: fixed;
+	top: 400px;
+	left: 750px; }
+
+.paint8 {
+	width: 100px;
+	position: fixed;
+	top: 500px;
+	left: 900px; }
+
+.paint9 {
+	width: 100px;
+	position: fixed;
+	top: 350px;
+	left: 350px; }
+
+.paint10 {
+	width: 100px;
+	position: fixed;
+	top: 150px;
+	left: 400px; }
+
+
+
+a:link {
+  font-size: 20px;
+  font-family: helvetica;
+  text-decoration: none;
+  color:black;
+  margin-left: 0px;
+
+}  
+
+.navigation {
+	position: fixed;
+	left: 0;
+	top:0;
+}
+a:visited {
+	color: black;
+}
+
+	
+.month:hover .headline {
+	font-size: 30px;
+
+}
+

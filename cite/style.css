@@ -1,0 +1,166 @@
+
+
+body {
+	background-color: white;
+	 overflow: scroll;
+}
+
+h1 {
+  top: 0px;
+  margin-left:500px;
+  font-size:50px;
+  font-family: Helvetica;
+
+   }
+
+.month {
+  font-family:"helvetica";
+  width: 200px;
+  height: 200px;
+  overflow: hidden; 
+  display: block;
+  margin-top: 0px;
+}
+
+.painting {
+	height:220px;
+	width: 170px;
+	position: fixed;
+	top: 10px;
+	left: 150px;
+}
+
+.paint1 {
+	height: 180px;
+	width: 110px;
+	position: fixed;
+	top: 280px;
+	left: 200px;
+}
+
+.paint2 {
+	height:150px;
+	width: 100px;
+	position: fixed;
+	top: 500px;
+	left: 500px; }
+
+
+.paint3 {
+	height:200px;
+	width: 200px;
+	position: fixed;
+	top: 170px;
+	left: 700px; }
+
+
+.paint4 {
+	height: 200px;
+	width: 160px;
+	position: fixed;
+	top: 70px;
+	left: 960px; }
+
+.paint5 {
+	height:250;
+	width: 170px;
+	position: fixed;
+	top: 500px;
+	left: 270px; }
+
+.paint6 {
+	height:150px;
+	width: 220px;
+	position: fixed;
+	top: 300px;
+	left: 1000px; }
+
+.paint7 {
+	height:250px;
+	width: 200px;
+	position: fixed;
+	top: 400px;
+	left: 670px; }
+
+.paint8 {
+	height: 200px;
+	width: 150px;
+	position: fixed;
+	top: 500px;
+	left: 900px; }
+
+.paint9 {
+	height:110px;
+	width: 250px;
+	position: fixed;
+	top: 350px;
+	left: 350px; }
+
+.paint10 {
+	height: 210px;
+	width: 110px;
+	position: fixed;
+	top: 100px;
+	left: 440px; }
+
+
+
+a:link {
+  font-size: 20px;
+  font-family: helvetica;
+  text-decoration: none;
+  color:black;
+  margin-left: 0px;
+
+} 
+
+
+a:active {
+  font-size: 20px;
+  font-family: helvetica;
+  text-decoration: none;
+  color:black;
+  margin-left: 0px;
+
+} 
+
+
+
+a:visited{
+  font-size: 20px;
+  font-family: helvetica;
+  text-decoration: none;
+  color:black;
+  margin-left: 0px;
+
+} 
+
+.month:hover .headline {
+	font-size: 40px;
+	color: green;
+
+}
+
+
+a:hover {
+  font-size: 20px;
+  font-family: helvetica;
+  text-decoration: none;
+  color:black;
+  margin-left: 0px; 
+
+}  
+
+.navigation {
+	position: fixed;
+	left: 0;
+	top:0;
+}
+a:visited {
+	color: black;
+}
+
+	
+
+
+	

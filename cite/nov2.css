@@ -1,0 +1,77 @@
+
+body {
+  background-color: white;
+
+}
+
+h1 {
+  top:50px;
+  margin-left:560px;
+  font-size:50px;
+   }
+
+.month {
+  font-family:"helvetica";
+  width: 200px; 
+  height: 200px;
+  overflow: hidden;
+  display: block;
+  margin-top: 0px;
+}
+
+.container { 
+ width: 400px;
+ height:500px;
+ margin-left: 730px;
+ margin-top: 150px;
+font-family: helvetica;
+}
+
+
+h1{
+width: 200px;
+height:100px;
+left: 500px;
+
+}
+.paint9 {
+  height: 400px;
+	width: 600px; 
+	position: fixed;
+	top: 190px;
+	left: 110px;
+}
+
+.arrow {
+  height: 50px;
+  width:80px;
+  position: fixed; 
+  top: 100px;
+  left: 100px;
+  margin-left: 520px;
+}
+	
+
+a:link {
+  font-size: 20px;
+  font-family: helvetica;
+  text-decoration: none;
+  color:black;
+  margin-left: 0px;
+
+}  
+
+.navigation {
+  position: fixed;
+  left: 0;
+  top:0;
+}
+a:visited {
+  color: black;
+}
+
+  
+.month:hover .headline {
+  font-size: 30px;
+
+}
