@@ -1,0 +1,69 @@
+.word-wrapper{
+
+	display: inline-block;
+	margin-right: 60px;
+}
+
+
+.letter-wrapper { 
+
+display: inline-block;
+margin: 0 15px 60px 15px;
+
+}
+
+.bar{
+
+	position: absolute;
+}
+
+.vertical{
+
+	width: 30px;
+	height:200px;
+}
+
+.horizontal{
+
+	width: 150px;
+	height:30px;
+}
+
+.black{ background: #000;}
+.red{ background: #f00;}
+.blue{ background: blue;}
+.yellow{ background: yellow;}
+
+.letter {
+	width: 150px;
+	height: 200px;
+	 
+	position: relative;
+}
+
+.a-left{
+	
+	
+	z-index: ;
+}
+.a-right{
+	
+	
+	top: 0px;
+	right: 0px;
+}
+
+.a-top{
+
+	
+	top: 0px;
+	right: 0px;
+}
+
+.a-mid{
+
+
+	
+	top: 85px;
+	right: 0px;
+}
