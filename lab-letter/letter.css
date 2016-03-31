@@ -1,0 +1,16 @@
+.word-wrapper{
+
+	display: inline-block;
+	margin-right: 60px;
+}
+
+
+.letter-wrapper { 
+
+display: inline-block;
+margin: 0 15px 60px 15px;
+
+}
+
+.black{ background: #000;}
+

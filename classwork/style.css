@@ -1,0 +1,43 @@
+css
+
+body{
+	margin: 0;
+	font-size: 0;
+}
+
+.stage {
+	
+}
+
+
+.letter {
+	width: 100px;
+	height: 200px; 
+	position: relative;
+	display: inline-block;
+	margin-right: 10px;
+}
+.alphabet{
+	display: none;
+}
+
+.horiz { 
+	width: 100px;
+	height: 20px;
+	background-color: black;
+	position: absolute;
+}
+
+.top{
+	top: 60px;
+	left: 0px
+}
+
+.mid{
+	top: 80px;
+	left:0px;
+}
+
+.vert{
+	width: 
+}
