@@ -1,0 +1,48 @@
+html, body {
+	height: 100%;
+	font-family: "Roboto", sans-serif; }
+
+	h1 {
+
+    font-family: 'Barrio', cursive;
+
+    position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 7vw;
+	width: 80vw;
+	line-height: 1.5;
+	font-weight: 700;
+	text-align: center;
+
+}
+
+
+.one{
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 2vw;
+	width: 80vw;
+	line-height: 1.5;
+	font-weight: 400;
+	text-align: center; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

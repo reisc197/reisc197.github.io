@@ -1,0 +1,148 @@
+.first { 
+	position: absolute;
+ 	top: 40%;
+	text-align: center;
+	font-family: helvetica;
+	font-weight: bold;
+	font-size: 20px;
+	background-color: grey;
+	padding: 10px;
+	color: white;
+}
+
+.second { 
+	position: absolute;
+ 	top: 10%;
+ 	left: 35%;
+	text-align: center;
+	font-family: helvetica;
+	font-weight: bold;
+	font-size: 20px;
+	background-color: grey;
+	padding: 10px;
+	color: white;
+}
+
+.third { 
+	position: absolute;
+ 	top: 65%;
+ 	left: 35%;
+	text-align: center;
+	font-family: helvetica;
+	font-weight: bold;
+	font-size: 20px;
+	background-color: grey;
+	padding: 10px;
+	color: white;
+ }
+
+ .fourth { 
+	position: absolute;
+ 	top: 20%;
+ 	left: 35%;
+	text-align: center;
+	font-family: helvetica;
+	font-weight: bold;
+	font-size: 20px;
+	background-color: grey;
+	padding: 10px;
+	color: white;
+ }
+
+  .fifth { 
+	position: absolute;
+ 	top: -270%;
+ 	left: 100%;
+	text-align: center;
+	font-family: helvetica;
+	font-weight: bold;
+	font-size: 20px;
+	background-color: grey;
+	padding: 25px;
+	color: white;
+ }
+
+   .sixth { 
+	position: absolute;
+ 	top: -15%;
+ 	left: -850px;
+	text-align: center;
+	font-family: helvetica;
+	font-weight: bold;
+	font-size: 20px;
+	background-color: grey;
+	padding: 25px;
+	color: white;
+ }
+
+  .seventh { 
+	position: absolute;
+ 	top: -110%;
+ 	left: 75%;
+	text-align: center;
+	font-family: helvetica;
+	font-weight: bold;
+	font-size: 20px;
+	background-color: grey;
+	padding: 40px;
+	color: white;
+ }
+
+  .eigth { 
+	position: absolute;
+ 	top: 7%;
+ 	left: -444%;
+	text-align: center;
+	font-family: helvetica;
+	font-weight: bold;
+	font-size: 20px;
+	background-color: grey;
+	padding: 40px;
+	color: white;
+ }
+a:link {
+	color: pink;
+	text-decoration: none;
+	cursor: pointer;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+
+a:hover {
+	color: pink;
+	text-decoration: none;
+	cursor: pointer;
+	font-weight: bold;
+	font-size: 35px;
+}
+
+a:visited {
+	color: pink;
+	text-decoration: none;
+	cursor: pointer;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+a:active {
+	color: pink;
+	text-decoration: none;
+	cursor: pointer;
+	font-weight: bold;
+	font-size: 30px;
+
+}
+
+
+
+.word2 {
+ font-weight: italic;	
+}
+
+.word4 {
+ font-weight: italic;	
+}
+
+
+
