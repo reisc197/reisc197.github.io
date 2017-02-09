@@ -1,0 +1,127 @@
+html,body{
+	height: 100px;
+}
+
+.box{
+	width: 200px;
+	height: 200px;
+	background-color: red;
+	margin-bottom: 10px;
+	margin-right: 20px;
+	float: right;
+}
+
+.last{
+	clear: both;
+}
+
+.smalldot {
+	width: 25px;
+	height: 25px;
+	border-radius: 50%;
+	background-color: black;
+	position: relative;
+	left: 100px;
+
+}
+
+
+/* .special {
+	position: fixed;
+	top: 50px;
+	left: 50px;
+}
+
+.box1{
+	width: 200px;
+	height: 200px;
+	background-color: blue;
+	margin-bottom: 10px;
+}
+.box2{
+	width: 200px;
+	height: 200px;
+	background-color: blue;
+	margin-top: -210px;
+	margin-left: 220px;
+	position: absolute;
+}
+.box3{
+	width: 200px;
+	height: 200px;
+	background-color: blue;
+	margin-top: -210px;
+	margin-left: 447px;
+	position: absolute;
+}
+
+.box4{
+	width: 200px;
+	height: 200px;
+	background-color: blue;
+	margin-top: -210px;
+	margin-left: 680px;
+	position: absolute;
+}
+
+.box5{
+	width: 200px;
+	height: 200px;
+	background-color: blue;
+	margin-top: -210px;
+	margin-left: 900px;
+	position: absolute;
+}
+.box6{
+	width: 200px;
+	height: 200px;
+	background-color: blue;
+	margin-top: -210px;
+	margin-left: 1150px;
+	position: absolute;
+}*/
+/*	position:relative;
+	left: 500px;
+	top: -100px;
+*/
+
+/*position: absolute;
+top: 100px;
+left: 700px;
+
+
+
+/*
+.dot{
+	width: 200px;
+	height:200px;
+	border-radius: 50%;
+	background-color: red; 
+
+}
+
+.dot:hover{
+	background-color: green;
+	cursor: pointer;
+}
+*/
+
+/*
+.box{
+	width: 400px;
+	height: 400px;
+}
+
+.dot, .box{
+	background-color:brown;
+}
+
+.dot .box{
+	background-color:brown;
+}*/
+
+
+/*<!-- 
+Pseudo Selector
+Pseudo Class -->*/
+
