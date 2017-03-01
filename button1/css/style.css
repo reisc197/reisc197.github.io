@@ -1,0 +1,109 @@
+/*html, body {
+  height: 100%;
+}
+*/
+
+
+/*body{
+  transition: background-color 0.25s linear;
+}
+*/
+h1{
+  color: red;
+  font-size: 50px;
+  font-family: futura;
+  position: absolute;
+  left:540px;
+  top:20px;
+  
+}
+
+
+.dark{
+  background-color: white;
+}
+
+
+.button {
+  position: absolute;
+/*  margin: auto;
+*/  left: 10px;
+  /*top: 200px;*/
+  width: 300px;
+  height: 508px;
+/*  border-radius: 8px;
+*//*  background-color: rgb(200, 200, 200);
+*/  cursor: pointer;
+background-image: url("../img/McDonalds.png");
+/*transition: all 0.5s ease-in-out;*/
+}
+
+.buttontwo {
+  position: absolute;
+/*  margin: auto;
+*/  left: 900px;
+  /*top: 200px;*/
+  width: 300px;
+  height: 180px;
+  margin-top: 150px;
+/*  border-radius: 8px;
+*//*  background-color: rgb(200, 200, 200);
+*/  cursor: pointer;
+background-image: url("../img/papa.png");
+/*transition: all 0.5s ease-in-out;*/
+}
+.buttonthree{
+  position: absolute;
+/*  margin: auto;
+*/  left: 410px;
+  /*top: 200px;*/
+  width: 300px;
+  height: 250px;
+  margin-top: 150px;
+/*  border-radius: 8px;
+*//*  background-color: rgb(200, 200, 200);
+*/  cursor: pointer;
+background-image: url("../img/kfc.png");
+/*transition: all 0.5s ease-in-out;*/
+}
+.focused{
+/* background-color: rgb(120, 120, 120);*/
+
+/* border: 1px solid rgb(40, 40, 40);
+*/}
+
+.active {
+/*  background-color:rgb(200, 20, 34);*/
+background-image: url("../img/happymeal.png");
+top:80px;
+left: 10px;
+width: 280px;
+  height: 800px;
+/*  border: 1px solid rgb(255, 0, 0);
+*/}
+.active2 {
+/*  background-color:rgb(200, 20, 34);*/
+background-image: url("../img/pizza.png");
+top:-120px;
+left: 900px;
+width: 220px;
+  height: 870px;
+/*  border: 1px solid rgb(255, 0, 0);
+*/}
+
+.active3 {
+/*  background-color:rgb(200, 20, 34);*/
+background-image: url("../img/chicken.png");
+top:30px;
+left: 430px;
+width: 260px;
+  height: 735px;
+/*  border: 1px solid rgb(255, 0, 0);
+*/}
+
+
+/*
+  switch img
+  width: 120px;
+  height: 358px;
+*/

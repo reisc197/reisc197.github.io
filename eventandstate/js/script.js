@@ -14,11 +14,11 @@ $(document).ready(function(){
 	$(".button").on("click", function(){
 		$(this).toggleClass("active");
 		$("body").toggleClass("dark");
-		$("h1").html("Clicked!");
+		$("h1").html("Dig in!");
 	});
 
 	$("h1").on("click", function(){
-		$(this).html("Switch");
+		$(this).html("Dig in!");
 
 	});
 
