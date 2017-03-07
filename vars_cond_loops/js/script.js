@@ -15,7 +15,7 @@ $(document).ready(function() {
 
 
     var popCount = 0; 
-    var numOfBalloons = 10;
+    var numOfBalloons = 100;
 
     for (var i=0; i<numOfBalloons; i++) {
       $("#balloon-container").append("<div class='balloon'> </div>");
