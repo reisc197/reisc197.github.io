@@ -37,7 +37,7 @@ h1{
 
   }
 }
-@keyframes drift {
+@keyframes pulse {
   0% {
     left: 10px;
    
@@ -69,10 +69,9 @@ body {
   height: 150px;
   width: 100%;
   line-height: 150px;
-  background-color: rgba(0, 0, 0, 0.7);
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 20px;
-  color: white;
+  font-family: futura;
+  font-size: 70px;
+  color: lightblue;
   text-align: center;
   z-index: 99;
 }
@@ -81,37 +80,38 @@ body {
 #balloon-container {
   position: relative;
   width: 100%;
-  height: 100%;
+  height: 50%;
   overflow-y: scroll;
 }
 
 
 .balloon {
+
   position: relative;
-  width: 40px;
-  height: 40px;
+  width: 150px;
+  height: 150px;
   margin: 12px 6px;
-  background-image: url("../img/balloon.png");
+  background-image: url("../img/bubble.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center center;
   float: left;
-  animation: drift;
-  animation-duration: 1s;
+ animation: pulse;
+  animation-duration: 3s;
   animation-iteration-count: infinite;
 }
 
-.big{
-  width: 80px;
-  height: 80px;
-}
+/*.big{
+  width: 10px;
+  height: 10px;
+}*/
 
 .popped{
   opacity:0;
   pointer-events:none;
 }
 
-@keyframes drift {
+@keyframes pulse {
   0% {
     left: 0;
   }

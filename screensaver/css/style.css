@@ -85,21 +85,24 @@ div {
 .circle {
   -webkit-animation:grow 7s infinite;
 
+
 }
 .circle1 {
   -webkit-animation:grow 10s infinite;
+
   margin-left: 30%;
   top: 0%;
 
 }
 .circle2 {
   -webkit-animation:grow 6s infinite;
+
   margin-left: 60%;
   top:-10%;
 
 }
 .circle3 {
-  -webkit-animation:grow 8s infinite;
+ -webkit-animation:grow 8s infinite;
   margin-left: 70%;
   top:40%;
 
@@ -114,6 +117,9 @@ div {
 opacity:.1; 
 } 
 
+
+
+
 }
   
   /*50% {
@@ -121,18 +127,6 @@ opacity:.1;
   
  
   }
-  
-
-
-
-
-
-
-
-
-
-
-
 
 /*.circle {
   position: absolute;

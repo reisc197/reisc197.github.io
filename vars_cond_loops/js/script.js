@@ -42,7 +42,7 @@ $(document).ready(function() {
 
 
 		if (popCount === numOfBalloons) {
-		$("h1").html("WOO WOO WOO!");
+		$("h1").html("wooo");
 
 		}  
 
