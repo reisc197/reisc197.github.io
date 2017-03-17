@@ -1,0 +1,43 @@
+html, body {
+  height: 100%;
+  overflow-x: hidden;
+  background: url(paolo1.jpg);
+
+}
+
+.content {
+  position: relative;
+  float: left;
+  width: 60%;
+  margin-bottom: 20px;
+}
+
+
+
+p {
+  margin-top: 90%;
+  font-size: 30px;
+  font-family: futura;
+  background: white;
+  text-align: left;
+
+}
+
+img {
+  position: relative;
+  height: 600px;
+  width: 1030px;
+  top: 100px;
+
+}
+
+
+/*.images {
+  position: relative;
+  clear: both;
+  height: 20px;
+  width: 10px;
+}*/
+
+
+
