@@ -8,7 +8,6 @@ html, body {
 .content {
   position: relative;
   float: left;
-  width: 60%;
   margin-bottom: 20px;
 }
 
@@ -17,7 +16,7 @@ html, body {
 p {
   margin-top: 90%;
   font-size: 30px;
-  font-family: futura;
+  font-family: sans-serif;
   background: white;
   text-align: left;
 
@@ -25,19 +24,38 @@ p {
 
 img {
   position: relative;
-  height: 600px;
-  width: 1030px;
+  height: 500px;
+  width: 1150px;
   top: 100px;
+  padding: 6%;
 
 }
 
+h1 {
+  text-align: center;
+  background-color: white;
+  font-family: sans-serif;
+}
 
-/*.images {
+@media screen and (max-width: 700px) {
+
+  p{
+    font-size: 100%;
+  }
+  img {
   position: relative;
-  clear: both;
-  height: 20px;
-  width: 10px;
-}*/
+  height: 300px;
+  width: 520px;
+  top: 50px;
+  padding: 6%;
 
+}
+h1 {
+  text-align: center;
+  background-color: none;
+  font-family: sans-serif;
+  margin-top: 0%;
 
+}
 
+}
