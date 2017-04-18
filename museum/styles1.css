@@ -17,7 +17,6 @@ html, body {
 
 }
 
-
 	h2 {
 
     font-family: "helvetica";
@@ -30,5 +29,19 @@ html, body {
 	line-height: 1.5;
 	font-weight: 400;
 	text-align: center;
+	margin-top: 6%;
 
 }
+
+.image {
+  position: absolute;
+  clear: both;
+}
+
+img{
+    width: 70%;
+    height:13%;
+    margin-left: 25%;
+    margin-top: 5%; 
+
+  }
