@@ -1,0 +1,17 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  width: 400px;
+  margin: 40px auto 0 auto;
+  padding: 0;
+  text-align: center;
+  font-size: 50px;
+  color: black;
+  font-weight: normal;
+  font-family: futura;
+}
+
+

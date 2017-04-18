@@ -1,0 +1,272 @@
+.poster1 {
+	height: 280px;
+	width: 200px;
+	position: fixed;
+	top: 180px;
+	left: 80px;
+	animation: myOrbit3 10s linear infinite; }
+
+
+#textbox{
+	background-color: yellow;
+	height: 20px;
+	width: 20px;
+    display: none;
+}
+
+.poster2 {
+	height:200px;
+	width: 160px;
+	position: fixed;
+	top: 480px;
+	left: 500px; 
+	animation: myOrbit3 10s linear infinite; }
+
+
+
+.cacoon {
+	height:150px;
+	width: 120px;
+	position: fixed;
+	top: 120px;
+	left: 700px; 
+	animation: myOrbit 5.5s linear infinite;}
+
+
+
+.cigs {
+	height: 410px;
+	width: 300px;
+	position: fixed;
+	top: -15px;
+	left: 960px; 
+	animation: myOrbit 9s linear infinite;}
+
+.whale {
+	height:150px;
+	width: 350px;
+	position: fixed;
+	top: 570px;
+	left: 70px; 
+	 animation: myOrbit 9s linear infinite;}
+
+
+.butterfly {
+	height:170px;
+	width: 220px;
+	position: fixed;
+	top: 450px;
+	left: 1000px;
+    animation: myOrbit 7s linear infinite;}
+
+
+.poster3 {
+	height:350px;
+	width: 300px;
+	position: fixed;
+	top: 400px;
+	left: 670px; 
+	animation: myOrbit3 8s linear infinite; }
+
+.bird {
+	height: 150px;
+	width: 200px;
+	position: fixed;
+	top: 20px;
+	left: 200px; 
+	animation: myOrbit 7s linear infinite;}
+
+
+.drum {
+	height:330px;
+	width: 170px;
+	position: fixed;
+	top: 200px;
+	left: 350px; 
+	animation: myOrbit 9s linear infinite;}
+
+.posters {
+	height: 215px;
+	width: 140px;
+	position: absolute;
+	top: 20px;
+	left: 570px;
+	 animation: myOrbit 8s linear infinite;}
+
+
+@keyframes myOrbit {
+    from { transform: rotate(0deg) translateX(150px) rotate(0deg); }
+    to   { transform: rotate(360deg) translateX(150px) rotate(-360deg); }
+}
+
+@keyframes myOrbit2 {
+	from { 	transform: rotate(0deg) translateX(360px) rotate(0deg); }
+	to   {  transform: rotate(150deg) translateX(150px) rotate(-150deg); }
+}
+
+@keyframes myOrbit3 {
+    from { transform: rotate(0deg) translateX(360px) rotate(0deg); }
+    to   { transform: rotate(360deg) translateX(360px) rotate(-360deg); }
+}
+
+
+#poster1{
+	position: absolute;
+	top:100px;
+	left: 100px;
+	background-color: transparent;
+	font-size: 200px;
+	font-family: helvetica;
+	height: 50px;
+	width: 60px;
+    display: none;
+    color: grey;
+        z-index: -1;
+
+
+}
+#poster4{
+	position: absolute;
+	top:100px;
+	left: 100px;
+	background-color: transparent;
+	font-size: 200px;
+	font-family: helvetica;
+	height: 50px;
+	width: 60px;
+    display: none;
+    color: grey;
+        z-index: -1;
+
+
+
+}
+#cacoon{
+	position: absolute;
+	top:100px;
+	left: 100px;
+	background-color: transparent;
+	font-size: 200px;
+	font-family: helvetica;
+	height: 50px;
+	width: 60px;
+    display: none;
+    color: grey;
+        z-index: -1;
+
+
+
+}
+#cigars{
+	position: absolute;
+	top:100px;
+	left: 100px;
+	background-color: transparent;
+	font-size: 200px;
+	font-family: helvetica;
+	height: 50px;
+	width: 60px;
+    display: none;
+    color: grey;
+        z-index: -1;
+
+
+
+}
+#poster2{
+	position: absolute;
+	top:100px;
+	left: 100px;
+	background-color: transparent;
+	font-size: 200px;
+	font-family: helvetica;
+	height: 50px;
+	width: 60px;
+    display: none;
+    color: grey;
+        z-index: -1;
+
+
+
+}
+#whale{
+	position: absolute;
+	top:100px;
+	left: 100px;
+	background-color: transparent;
+	font-size: 200px;
+	font-family: helvetica;
+	height: 50px;
+	width: 60px;
+    display: none;
+    color: grey;
+        z-index: -1;
+
+
+
+}
+#butterfly{
+	position: absolute;
+	top:100px;
+	left: 100px;
+	background-color: transparent;
+	font-size: 200px;
+	font-family: helvetica;
+	height: 50px;
+	width: 60px;
+    display: none;
+    color: grey;
+        z-index: -1;
+
+
+
+}
+#drum{
+	position: absolute;
+	top:100px;
+	left: 100px;
+	background-color: transparent;
+	font-size: 200px;
+	font-family: helvetica;
+	height: 50px;
+	width: 60px;
+    display: none;
+    color: grey;
+        z-index: -1;
+
+
+
+}
+#bird{
+	position: absolute;
+	top:100px;
+	left: 100px;
+	background-color: transparent;
+	font-size: 200px;
+	font-family: helvetica;
+	height: 50px;
+	width: 60px;
+    display: none;
+    color: grey;
+        z-index: -1;
+
+
+}
+#poster3{
+	position: absolute;
+	top:100px;
+	left: 100px;
+	background-color: transparent;
+	font-size: 200px;
+	font-family: helvetica;
+	height: 50px;
+	width: 60px;
+    display: none;
+    color: grey;
+    z-index: -1;
+
+
+}
+
+
+
