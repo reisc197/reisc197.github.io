@@ -1,0 +1,151 @@
+#mouseOver {
+ 	
+    position: absolute;
+/*    z-index: 0;*/
+    color: white;
+      margin-top: -16px;
+
+}
+
+#mouseOver img {
+    position: absolute;
+    margin-left: 80px;
+    margin-top: 40px;
+    transform: translate(-50%);
+    opacity: 0;
+    pointer-events: none;
+    transition-duration: 800ms; 
+    /*z-index: 1;*/
+
+    width: 80%;
+     
+}
+
+#mouseOver a {color:orange;}
+
+#mouseOver:hover img {
+    opacity: 2;
+    transition-duration: 400ms;
+        outline: 1px solid red;
+}
+
+.yellowl{
+	margin-top: 40px;
+	margin-left: 40px;
+	color: yellow;
+}
+
+.yellow {
+	background-color: yellow;
+	position: fixed;
+	left: 0;
+	height: 100%;
+	width: 18%;
+}
+
+.orange {
+	background-color: orange;
+	position: fixed;
+	margin-left: 205px;
+	height: 100%;
+	width:50%;
+}
+
+#mouseOver1{
+ 	
+    position: absolute;
+    /*z-index: 10;*/
+    color: white;
+      margin-top: -16px;
+
+}
+#mouseOver1 a { color: orange;}
+
+#mouseOver1 img {
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 140px;
+    transform: translate(-50%);
+    opacity: 0;
+    pointer-events: none;
+    transition-duration: 800ms; 
+   /* z-index: 1;*/
+     outline: 1px solid red;
+
+    width: 80%;
+     
+}
+
+#mouseOver1:hover img {
+    opacity: 2;
+    transition-duration: 400ms;
+}
+
+#mouseOver2{
+    position: absolute;
+   /* z-index: 10;*/
+    color: white;
+    margin-top: -16px;
+}
+#mouseOver2 img{
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 140px;
+    opacity: 0;
+    pointer-events:none;
+    /*z-index: 1;*/
+    outline: 1px solid red;
+    width: 80%;
+}
+.container{
+    width: 100vw;
+}
+.orangel{
+	margin-top: 40px;
+	margin-left: 40px;
+	color: yellow;}
+
+
+.pink {
+	background-color: pink;
+	position: fixed;
+	margin-left: 410px;
+	height: 100%;
+	width: 18%;
+}
+
+.red {background-color: red;
+	position: fixed;
+	margin-left: 620px;
+	height: 100%;
+	width: 18%;
+}
+
+
+
+.purple {background-color: purple;
+	position: fixed;
+	margin-left: 835px;
+	height: 100%;
+	width: 18%;
+}
+
+.blue {background-color: blue;
+	position: fixed;
+	margin-left: 1035px;
+	height: 100%;
+	width: 18%;}
+
+
+
+.pinkl{
+	margin-top: 40px;
+	margin-left: 40px;
+	color: yellow;}
+
+
+.green {background-color: green;
+	position: fixed;
+	margin-left: 1250px;
+	height: 100%;
+	width: 18%;}
