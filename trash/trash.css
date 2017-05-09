@@ -1,0 +1,457 @@
+body {
+  background: url(bag2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
+
+
+
+
+.image{
+	pointer-events: none;
+	opacity: 0;
+
+}
+
+
+
+
+
+
+.sidebar {
+	z-index: 10;
+}
+
+.sidebar:hover{
+	color:white;
+}
+
+
+.compost {
+	font-family: helvetica;
+	font-weight: bold;
+	font-size: 25px;
+	text-transform: uppercase;
+	top: 0px;
+	width: 200px;
+	left: 0px;
+	outline: yellow;
+	position: absolute;
+	color: hotpink;
+}
+.recyclable {
+	font-family: helvetica;
+	font-weight: bold;
+	font-size: 25px;
+	text-transform: uppercase;
+	top: 70px;
+	left: 0px;
+	outline: black;
+	position: absolute;
+		width: 200px;
+
+}
+.unrecyclable {
+	font-family: helvetica;
+	font-weight: bold;
+	font-size: 25px;
+	text-transform: uppercase;
+	top: 29px;
+	left: 0px;
+	outline: black;
+	position: absolute;
+		width: 200px;
+
+}
+
+.all {
+	font-family: helvetica;
+	font-weight: bold;
+	font-size: 25px;
+	text-transform: uppercase;
+	top: 100px;
+	left: 0px;
+	outline: black;
+	position: absolute;
+		width: 200px;
+
+}    
+
+
+.compost:hover {
+  animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+  transform: translate3d(0, 0, 0);
+  backface-visibility: hidden;
+  perspective: 1000px;
+}
+
+@keyframes shake {
+  10%, 90% {
+    transform: translate3d(-1px, 0, 0);
+  }
+  
+  20%, 80% {
+    transform: translate3d(2px, 0, 0);
+  }
+
+  30%, 50%, 70% {
+    transform: translate3d(-4px, 0, 0);
+  }
+
+  40%, 60% {
+    transform: translate3d(4px, 0, 0);
+  }
+}
+
+.recyclable:hover {
+  animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+  transform: translate3d(0, 0, 0);
+  backface-visibility: hidden;
+  perspective: 1000px;
+}
+
+@keyframes shake {
+  10%, 90% {
+    transform: translate3d(-1px, 0, 0);
+  }
+  
+  20%, 80% {
+    transform: translate3d(2px, 0, 0);
+  }
+
+  30%, 50%, 70% {
+    transform: translate3d(-4px, 0, 0);
+  }
+
+  40%, 60% {
+    transform: translate3d(4px, 0, 0);
+  }
+}
+
+.unrecyclable:hover {
+  animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+  transform: translate3d(0, 0, 0);
+  backface-visibility: hidden;
+  perspective: 1000px;
+}
+
+@keyframes shake {
+  10%, 90% {
+    transform: translate3d(-1px, 0, 0);
+  }
+  
+  20%, 80% {
+    transform: translate3d(2px, 0, 0);
+  }
+
+  30%, 50%, 70% {
+    transform: translate3d(-4px, 0, 0);
+  }
+
+  40%, 60% {
+    transform: translate3d(4px, 0, 0);
+  }
+}
+
+.all:hover {
+  animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+  transform: translate3d(0, 0, 0);
+  backface-visibility: hidden;
+  perspective: 1000px;
+}
+
+@keyframes shake {
+  10%, 90% {
+    transform: translate3d(-1px, 0, 0);
+  }
+  
+  20%, 80% {
+    transform: translate3d(2px, 0, 0);
+  }
+
+  30%, 50%, 70% {
+    transform: translate3d(-4px, 0, 0);
+  }
+
+  40%, 60% {
+    transform: translate3d(4px, 0, 0);
+  }
+}
+
+
+a:link {
+    color: hotpink;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: hotpink;
+}
+
+/* mouse over link */
+a:hover {
+   text-align: italic;
+
+}
+
+/* selected link */
+a:active {
+    color: white;
+}
+
+.word {font-family: helvetica;
+position: absolute;	
+font-size:70px;
+margin-left: 26%;
+margin-top: -10%;
+
+}
+
+.word1 {font-family: helvetica;
+position: absolute;	
+font-size:70px;
+margin-left: 46%;
+margin-top: -5%;
+
+}
+.word2{font-family: helvetica;
+position: absolute;	
+font-size:70px;
+margin-left: 70%;
+margin-top: -10%;}
+
+
+.word3{font-family: helvetica;
+position: absolute;
+font-size:70px ;
+margin-left: 60%;
+margin-top: 10%;}
+
+
+.word4{font-family: helvetica;
+position: absolute;
+font-size:70px ;
+margin-left: 60%;
+margin-top: 5%;}
+
+.word5{font-family: helvetica;
+position: absolute;
+font-size:70px ;
+margin-left: 43%;
+margin-top: 20%;}
+
+
+
+.word6{font-family: helvetica;
+position: absolute;
+font-size:70px ;
+margin-left: 15%;
+margin-top: 0%}
+
+
+.word7{font-family: helvetica;
+position: absolute;
+font-size:70px ;
+margin-left: 20%;
+margin-top: 16%}
+
+
+.word8{font-family: helvetica;
+position: absolute;
+font-size:70px ;
+margin-left: 19%;
+margin-top: -17%}
+
+
+.word9{font-family: helvetica;
+position: absolute;
+font-size:70px ;
+margin-left: 30%;
+margin-top: -27%}
+
+
+.word10{font-family: helvetica;
+position: absolute;
+font-size:70px ;
+margin-left: 19%;
+margin-top: -6%}
+
+.word11{font-family: helvetica;
+position: absolute;
+font-size:70px ;
+margin-left: 0%;
+margin-top: -3%}
+
+.word12{font-family: helvetica;
+position: absolute;
+font-size:70px ;
+margin-left: 0%;
+margin-top: 5%}
+
+.word13{font-family: helvetica;
+position: absolute;
+font-size:70px ;
+margin-left: 30%;
+margin-top: 11%}
+
+.word14{font-family: helvetica;
+position: absolute;
+font-size:70px ;
+margin-left: 0%;
+margin-top: 11%}
+
+.word15{font-family: helvetica;
+position: absolute;
+font-size:70px ;
+margin-left: 60%;
+margin-top: -15%}
+
+.word16{font-family: helvetica;
+position: absolute;
+font-size:70px ;
+margin-left: 64%;
+margin-top: 13%}
+
+.word17{font-family: helvetica;
+position: absolute;
+font-size:70px ;
+margin-left: 6%;
+margin-top: 15%}
+
+.word18{font-family: helvetica;
+position: absolute;
+font-size:70px ;
+margin-left: 65%;
+margin-top: -21%}
+
+.word19{font-family: helvetica;
+position: absolute;
+font-size:70px ;
+margin-left: 80%;
+margin-top: -4%}
+
+.word20{font-family: helvetica;
+position: absolute;
+font-size:70px ;
+margin-left: 45%;
+margin-top: -23%}
+
+.word21{font-family: helvetica;
+position: absolute;
+font-size:70px ;
+margin-left: 73%;
+margin-top: -25%}
+
+.word22{font-family: helvetica;
+position: absolute;
+font-size:70px ;
+margin-left: 5%;
+margin-top: 20%}
+
+.word23{font-family: helvetica;
+position: absolute;
+font-size:70px ;
+margin-left: 11%;
+margin-top: -20%}
+
+.word24{font-family: helvetica;
+position: absolute;
+font-size:70px ;
+margin-left: 15%;
+margin-top: -24%}
+
+.word25{font-family: helvetica;
+position: absolute;
+font-size:70px ;
+margin-left: 40%;
+margin-top: -20%}
+
+.word26{font-family: helvetica;
+position: absolute;
+font-size:70px ;
+margin-left: 23%;
+margin-top: 20%}
+
+.word27{font-family: helvetica;
+position: absolute;
+font-size:70px ;
+margin-left: 75%;
+margin-top: 20%}
+
+.word28{font-family: helvetica;
+position: absolute;
+font-size:70px ;
+margin-left: 65%;
+margin-top: 17%}
+
+.word29{font-family: helvetica;
+position: absolute;
+font-size:70px ;
+margin-left: 0%;
+margin-top: -13%}
+
+.word30{font-family: helvetica;
+position: absolute;
+font-size:70px ;
+margin-left: 60%;
+margin-top: -6%}
+
+.word31{font-family: helvetica;
+position: absolute;
+font-size:70px ;
+margin-left: 0%;
+margin-top: -8%}
+
+
+.word32{font-family: helvetica;
+position: absolute;
+font-size:70px ;
+margin-left: 65%;
+margin-top: 2%}
+
+.word33{font-family: helvetica;
+position: absolute;
+font-size:70px;
+margin-left: 35%;
+margin-top: -13%}
+
+.word34{font-family: helvetica;
+position: absolute;
+font-size:70px;
+margin-left: 75%;
+margin-top: -1%}
+
+.word35{font-family: helvetica;
+position: absolute;
+font-size:70px;
+margin-left: 34%;
+margin-top: 5%}
+
+.word36{font-family: helvetica;
+position: absolute;
+font-size:70px;
+margin-left: 54%;
+margin-top: 7%}
+
+
+.word37{font-family: helvetica;
+position: absolute;
+font-size:70px;
+margin-left: 42%;
+margin-top: -15%}
+
+.word38{font-family: helvetica;
+position: absolute;
+font-size:70px;
+margin-left: 0%;
+margin-top: 0%}
+
+
+
+
+
+
+
+
+
