@@ -1,5 +1,5 @@
 body {
-  background: url(bag2.jpg);
+  background: url(papere.jpg);
   background-repeat: no-repeat;
   background-size: cover; 
 }
@@ -14,10 +14,6 @@ body {
 }
 
 
-
-
-
-
 .sidebar {
 	z-index: 10;
 }
@@ -26,38 +22,53 @@ body {
 	color:white;
 }
 
+h1{ 
 
+  font-family: avenir;
+  font-weight: bold;
+  font-size: 20px;
+  text-transform: uppercase;
+  top: 0%;
+  margin-left: 2.5%;
+
+  
+  left: 5px;
+  outline: yellow;
+  position: absolute;
+  color: hotpink;
+
+}
 .compost {
-	font-family: helvetica;
+	font-family: avenir;
 	font-weight: bold;
-	font-size: 25px;
+	font-size: 20px;
 	text-transform: uppercase;
-	top: 0px;
+	top: 95%;
 	width: 200px;
-	left: 0px;
+	left: 40px;
 	outline: yellow;
 	position: absolute;
 	color: hotpink;
 }
 .recyclable {
-	font-family: helvetica;
+	font-family: avenir;
 	font-weight: bold;
-	font-size: 25px;
+	font-size: 20px;
 	text-transform: uppercase;
-	top: 70px;
-	left: 0px;
+	top: 95%;
+	left: 18%;
 	outline: black;
 	position: absolute;
 		width: 200px;
 
 }
 .unrecyclable {
-	font-family: helvetica;
+	font-family: avenir;
 	font-weight: bold;
-	font-size: 25px;
+	font-size: 20px;
 	text-transform: uppercase;
-	top: 29px;
-	left: 0px;
+	top: 95%;
+	left: 30%;
 	outline: black;
 	position: absolute;
 		width: 200px;
@@ -65,12 +76,12 @@ body {
 }
 
 .all {
-	font-family: helvetica;
+	font-family: avenir;
 	font-weight: bold;
-	font-size: 25px;
+	font-size: 20px;
 	text-transform: uppercase;
-	top: 100px;
-	left: 0px;
+	top: 95%;
+	left: 45%;
 	outline: black;
 	position: absolute;
 		width: 200px;
@@ -253,8 +264,8 @@ margin-top: 0%}
 .word7{font-family: helvetica;
 position: absolute;
 font-size:70px ;
-margin-left: 20%;
-margin-top: 16%}
+margin-left: 21%;
+margin-top: 14.5%}
 
 
 .word8{font-family: helvetica;
@@ -370,7 +381,7 @@ margin-top: -20%}
 .word26{font-family: helvetica;
 position: absolute;
 font-size:70px ;
-margin-left: 23%;
+margin-left: 22%;
 margin-top: 20%}
 
 .word27{font-family: helvetica;
@@ -389,8 +400,8 @@ margin-top: 17%}
 position: absolute;
 font-size:70px ;
 margin-left: 0%;
-margin-top: -13%}
-
+margin-top: -13%;
+}
 .word30{font-family: helvetica;
 position: absolute;
 font-size:70px ;
@@ -445,7 +456,7 @@ margin-top: -15%}
 position: absolute;
 font-size:70px;
 margin-left: 0%;
-margin-top: 0%}
+margin-top: -17%}
 
 
 

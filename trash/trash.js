@@ -36,10 +36,11 @@ $(document).ready(function(){
      $(".unrecyclable1").css("opacity", "1");
      $(".all1").css("opacity", "1");
 });
-
+     $(".compost").hover(function(){
+     $(".compost1").css("opacity", "1");
 
 
 
 });
-
+});
 
